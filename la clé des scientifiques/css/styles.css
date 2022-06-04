@@ -1,0 +1,339 @@
+*{
+    scroll-behavior: smooth;
+}
+.nav-link{
+    color: black;
+}
+.nav-link{
+    color: black;
+    font-size: 19px;
+    font-weight: 500;
+}
+.logoimg{     
+    margin:  0px 20px;
+}
+.head2{
+    height: 100vh;
+    background-image: url(../img/Sans\ titre.png);
+}
+.navbar-brand{
+    color: black;
+    font-size: 19px;
+    font-weight: 500;
+}
+.ghostletter{
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.534);
+    padding-bottom: 85vh;
+    color: rgba(0, 0, 0, 0);
+}
+.centerlogo{
+    padding-left: 35%;
+    padding-top: 8%;
+}
+.biglogo-site{
+    width: 350px;
+}
+.navbar-navbar{
+    background-color: red;
+}
+.title-mat{
+    text-align: center;
+    margin-bottom: -20px;
+}
+body{
+    margin: 0;
+}
+.letter-one-edit{
+    color: blue;
+}
+.title-matieres{
+    color: black;
+    font-size: 60px;
+}
+.title-mat-edit{
+    margin-top: 50px;
+    font-family: cursive; 
+    font-size: 70px;
+    padding-top: 30px;
+}
+.title-mat{
+    color: rgb(30, 30, 97);
+}
+.letter-mat{
+    color: rgb(30, 30, 97);
+    background-color: rgb(243, 239, 6);
+    border-radius: 300px;
+}
+row row-cols-1 row-cols-md-3 g-4{
+    margin-top: 30px;
+}
+.col{
+    margin-top: 100px;
+    margin-left: 20px;
+}
+.card-text{
+    text-align: center;
+}
+.letter-mat2{
+    background-color: yellow;
+    color: rgb(255, 255, 255);
+    border-radius: 300px;
+}
+.title-mat2{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.col1{
+    width: 320px;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.col2{
+    width: 320px;
+    margin-top: 100px;
+}
+.col3{
+    margin-top: 100px;
+    width: 320px;
+}
+.matiere-link{
+    background-color: rgba(0, 0, 255, 0);
+    padding-top: 290px;
+    padding-bottom: 30px;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+.body-exam-BFEM{
+    padding-bottom: 50px;
+}
+.title-mat3{
+    color: rgb(30, 30, 97);
+    text-align: center;
+    font-family: cursive;
+}
+.letter-mat3{
+    background-color: yellow;
+    color: rgb(30, 30, 97);
+    border-radius: 300px;
+}
+.text-container-contact{
+    text-align: center;
+}
+.contacter{
+    background-color: rgb(30, 30, 97);
+    padding: 50px 0px;
+}
+.letter-mat4{
+    color: white;
+    background-color: rgb(243, 243, 43);
+    border-radius: 300px;
+}
+.body-exam-BAC{
+    padding-bottom: 40px;
+}
+.text-contact{
+    color: white;
+    font-family: cursive;
+    text-align: center;
+    font-size: 30px;
+}
+.title-mat2{
+    font-family: cursive;
+}
+.faire-don{
+    padding-top: 30px;
+}
+.allparagraphes-site{
+    font-family: cursive;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+.letter-edit{
+    font-weight: 700;
+    color: red;
+}
+.link-dons-logos div{
+    display: flex;
+    vertical-align: top;
+}
+
+.logonum1{
+    margin-top: 35px;
+    font-size: 30px;
+    margin-left: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.logonum2{
+    margin-top: 30px;
+    font-size: 30px;
+    margin-left: 54px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.logonum3{
+    margin-top: 70px;
+    font-size: 30px;
+    margin-left: 58px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.paypal{
+    margin-left: 30px;
+    margin-bottom: 50px;
+}
+.wave{
+    margin-left: 40px;
+    margin-bottom: 50px;
+}
+.orange-money{
+    margin-bottom: 50px;
+}
+.footer-text{
+    font-family: cursive;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+.footer-edit{
+    color: blue;
+}
+footer{
+    background-color: rgba(231, 223, 223, 0.836);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+body a{
+    font-family: cursive;
+}
+body p{
+    font-family: cursive;
+}
+header nav{
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    z-index: 1;
+    transition: 1s;
+}
+.nav-item:hover a{
+    color: blue;
+}
+.navbar-brand:hover{
+    color: blue;
+}
+.dropdown-menu li a{
+    padding-top: 20px;
+}
+.dropdown-item{
+    background-color: blue;
+}
+.menu-drop{
+    color: red;
+}
+.row-row-cols-1-row-cols-md-3-g-4{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.col3{
+    margin-left: 70px;
+}
+.math{
+    padding-bottom: 30px;
+}
+.letter-mat3{
+    color: white;
+}
+.title-mat2{
+    color: rgb(30, 30, 97);;
+}
+.letter-mat{
+    color: white;
+}
+.letter-mat2{
+    color: rgb(255, 255, 255);
+}
+.letter-mat4{
+    color: rgb(30, 30, 97);
+}
+.matiere-link{
+    text-align: center;
+}
+.card-title{
+    text-align: center;
+}
+.letter-mat5{
+    background-color: yellow;
+    border-radius: 300px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 2px 5px;
+    margin-bottom: 10px;
+}
+.exercices-math{
+    margin-top: 50px;
+}
+.cours{
+    margin: 50px;
+}
+.Geometrie{
+    margin-top: 50px;
+}
+.letter-math{
+    margin-bottom: 15px;
+}
+.group-item{
+    text-transform: uppercase;
+}
+.body-matieres{
+    padding-bottom: 50px;
+}
+.contacter{
+    padding-top: 50px;
+    margin-top: 50px;
+}
+.letter-mat4{
+    color: white;
+}
+.title-mat6{
+    color: white;
+}
+.title-mat2{
+    color: white;
+}
+.nav-bar-text-content{
+    display: flex;
+    list-style-type: none;
+}
+.nav-bar{
+    display: flex;
+}
+.nav-bar:hover{
+    background-color: rgba(128, 128, 128, 0.295);
+}
+.nav-bar-text{
+    margin-top: 10px;
+}
+.nav-item{
+    margin: 0px 10px;
+}
+.nav-search{
+    color: rgba(0, 0, 255, 0);
+    margin-top: 5px;
+}
+.nav-link{
+    color: rgb(0, 0, 0);
+    border-width: white 15px;
+}
+.list-group li{
+    text-align: center;
+}
+.col3{
+    width: 320px;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+allcontain-contact
